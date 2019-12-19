@@ -1,0 +1,51 @@
+{
+    "name": "SmartBear Software",
+    "description": "Testing and Development teams around the world use SmartBear's automation, development and monitoring tools to build better software and applications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1157-smartbear-software.jpg",
+    "tags": [
+        "api lifeycle",
+        "have api",
+        "monitoring",
+        "performance",
+        "relative data",
+        "security",
+        "service api",
+        "testing",
+        "virtualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/smartbear-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.smartbear.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/smartbear"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/smart-bear-software"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/smart-bear-software"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SmartBear"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/smartbear"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/smartbear.com\/"
+        }
+    ]
+}
